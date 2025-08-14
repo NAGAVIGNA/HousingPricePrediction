@@ -70,9 +70,8 @@ This repository contains machine learning projects for predicting housing prices
 - `boston_housing.ipynb`: Boston Housing dataset analysis and modeling.
 - `california_housing.ipynb`: California Housing dataset analysis and modeling.
 - `ames_housing.ipynb`: Ames Housing dataset analysis and modeling.
-- `data/`: Directory containing datasets (or instructions to download).
-- `requirements.txt`: List of required Python libraries.
-- `figures/`: Generated plots (e.g., feature importance, RMSE comparisons).
+- `data/`: Directory containing datasets (to download).
+
 
 ## Key Findings
 - **Gradient Boosting** and **Random Forest** consistently outperformed Decision Tree and Ridge Regression across all datasets, with Gradient Boosting leading in Boston (R² = 0.9134) and California (R² = 0.8069), and Random Forest in Ames (R² = 0.7142).
@@ -82,5 +81,4 @@ This repository contains machine learning projects for predicting housing prices
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Contact
-For questions or contributions, please open an issue or contact [your email or GitHub handle].
+
