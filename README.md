@@ -5,9 +5,11 @@ This repository contains machine learning projects for predicting housing prices
 
 ## Datasets
 - **Boston Housing**: 506 records, 13 features (e.g., `RM`, `LSTAT`), target: `MEDV` (median house value, capped at $50,000).
+- Source: Scrapped Data from (https://lib.stat.cmu.edu/datasets/boston)
 - **California Housing**: 20,640 records, 8 numerical and 1 categorical feature (`ocean_proximity`), target: `median_house_value` (capped at $500,000).
-- Source: Download via kagglehub( https://www.kaggle.com/camnugent/california-housing-prices)
+- Source: Download via kagglehub ( https://www.kaggle.com/camnugent/california-housing-prices)
 - **Ames Housing**: 2,930 records, 19 features selected from 80 based on correlation, target: `SalePrice`.
+- Source: Download from OpenIntro (https://www.openintro.org/book/statdata/?data=ames)
 
 ## Methodology
 1. **Preprocessing**:
