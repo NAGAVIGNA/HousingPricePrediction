@@ -70,7 +70,7 @@ This repository contains machine learning projects for predicting housing prices
 - `boston_housing.ipynb`: Boston Housing dataset analysis and modeling.
 - `california_housing.ipynb`: California Housing dataset analysis and modeling.
 - `ames_housing.ipynb`: Ames Housing dataset analysis and modeling.
-- `data/`: Directory containing datasets (to download).
+- `Ames.csv, housing.csv/`: datasets (to download).
 
 
 ## Key Findings
